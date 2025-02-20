@@ -73,7 +73,7 @@ def main():
     vectorizer, tfidf_matrix = preprocess_text(data, 'description')
     
     # Get user input for genre and description
-    genre = input("Enter the genre (e.g., Action, Thriller, Comedy, Space): ").strip()
+    genre = input("Enter the genre (e.g., Action, Thriller, Comedy, Horror, Romance, Drama, Adventure, Animation, Documentry, Fantasy): ").strip()
     user_input = input("Enter a description of the type of movies you like: ").strip()
     
     # Get movie recommendations
