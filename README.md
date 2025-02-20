@@ -44,17 +44,29 @@ The system then recommends movies based on similarity scores.
 Example output for a sample query:
 
 ```
-Enter the genre (e.g., Action, Thriller, Comedy, Space): Action  
-Enter a description of the type of movies you like: Explosions and car chases  
+Enter the genre (e.g., Action, Thriller, Comedy, Space): Action
+Enter a description of the type of movies you like: Explosions and car chases 
 
 Top Recommendations:
-Title: Mad Max: Fury Road  
-Description: A post-apocalyptic action movie with high-speed chases, explosions, and intense battles.  
-Similarity Score: 0.845  
+Title: The Vow (2012)
+Description: After a car accident erases a woman’s memory, her husband fights to win her heart all over again.
+Similarity Score: 0.257
 
-Title: Die Hard  
-Description: A thrilling action-packed movie with gunfights and explosions.  
-Similarity Score: 0.812  
+Title: The Fog of War (2003)
+Description: A deep look into war strategies and decision-making through the perspective of former U.S. Secretary of Defense Robert McNamara.
+Similarity Score: 0.000
+
+Title: The Pianist (2002)
+Description: A Polish-Jewish pianist struggles to survive during World War II as he hides from the Nazis in war-torn Warsaw.
+Similarity Score: 0.000
+
+Title: The Pursuit of Happyness (2006)
+Description: A struggling salesman fights through homelessness to build a better future for himself and his son.
+Similarity Score: 0.000
+
+Title: Dear John (2010)
+Description: A soldier and a college student fall in love through letters, but the distance and war put their relationship to the test.
+Similarity Score: 0.000
 ...
 
 
