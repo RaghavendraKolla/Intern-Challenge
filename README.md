@@ -44,29 +44,28 @@ The system then recommends movies based on similarity scores.
 Example output for a sample query:
 
 ```
-Enter the genre (e.g., Action, Thriller, Comedy, Space): Action
-Enter a description of the type of movies you like: Explosions and car chases 
+Enter a description of the type of movies you like: I love thrilling action movies set in space, with a comedic twist.
 
 Top Recommendations:
-Title: The Vow (2012)
-Description: After a car accident erases a woman’s memory, her husband fights to win her heart all over again.
-Similarity Score: 0.257
+Title: Prisoners (2013)
+Description: When two children go missing, a father takes matters into his own hands while the police follow a set of clues.
+Similarity Score: 0.108
 
-Title: The Fog of War (2003)
-Description: A deep look into war strategies and decision-making through the perspective of former U.S. Secretary of Defense Robert McNamara.
-Similarity Score: 0.000
+Title: WALL-E (2008)
+Description: A lonely waste-collecting robot on an abandoned Earth embarks on a space adventure that could save humanity.
+Similarity Score: 0.104
 
-Title: The Pianist (2002)
-Description: A Polish-Jewish pianist struggles to survive during World War II as he hides from the Nazis in war-torn Warsaw.
-Similarity Score: 0.000
+Title: Toy Story (1995)
+Description: A cowboy doll feels threatened when a new astronaut action figure becomes his owner’s favorite toy.
+Similarity Score: 0.086
 
-Title: The Pursuit of Happyness (2006)
-Description: A struggling salesman fights through homelessness to build a better future for himself and his son.
-Similarity Score: 0.000
+Title: Free Solo (2018)
+Description: A thrilling, Oscar-winning documentary following rock climber Alex Honnold as he attempts to free-climb El Capitan without any ropes.
+Similarity Score: 0.084
 
-Title: Dear John (2010)
-Description: A soldier and a college student fall in love through letters, but the distance and war put their relationship to the test.
-Similarity Score: 0.000
+Title: Groundhog Day (1993)
+Description: A cynical TV weatherman finds himself reliving the same day over and over again, leading to comedic self-discovery and personal growth.
+Similarity Score: 0.069
 ...
 
 
