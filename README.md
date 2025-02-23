@@ -68,5 +68,6 @@ Description: A cynical TV weatherman finds himself reliving the same day over an
 Similarity Score: 0.069
 ...
 
-https://screenrec.com/share/8SM7YvGDz3
+
+
 
