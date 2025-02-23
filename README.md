@@ -66,7 +66,8 @@ Similarity Score: 0.084
 Title: Groundhog Day (1993)
 Description: A cynical TV weatherman finds himself reliving the same day over and over again, leading to comedic self-discovery and personal growth.
 Similarity Score: 0.069
-...
+```
+
 
 
 
